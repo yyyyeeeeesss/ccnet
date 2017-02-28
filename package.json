@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/soulman-is-good/ccnet",
   "dependencies": {
-    "serialport": "^1.4.5"
+    "serialport": "2.1.2"
   }
 }
